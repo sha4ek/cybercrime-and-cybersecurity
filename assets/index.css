@@ -97,6 +97,10 @@ main {
     background-color: #202024;
 }
 
+main li {
+    list-style: none;
+}
+
 img {
     margin: 30px 340px;
     width: 400px;
